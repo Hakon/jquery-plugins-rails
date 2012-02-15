@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["bb@xnull.de"]
   gem.description   = %q{jQuery plugins for Rails 3.x asset pipeline}
   gem.summary       = %q{jQuery plugins for Rails 3.x asset pipeline}
-  gem.homepage      = "https://github.com/hollow/jquery-plugins-rails"
+  gem.homepage      = "https://github.com/zenops/jquery-plugins-rails"
 
   gem.add_dependency "railties", "~> 3.0"
 
